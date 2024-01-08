@@ -1,0 +1,26 @@
+{
+    "version": "01.08.02.56",
+    "homepage": "https://github.com/bambulab/BambuStudio",
+    "url": "https://github.com/bambulab/BambuStudio/releases/download/v01.08.02.56/Bambu_Studio_win-v01.08.02.56-$*.zip",
+   
+
+    "extract_dir": "BambuStudio",
+    "bin": "bambu-studio.exe",
+    "shortcuts": [
+        [
+            "bambu-studio.exe",
+            "Bambu Studio"
+        ]
+    ],
+
+
+//     "checkver": {
+//         "url": "https://github.com/bambulab/BambuStudio/releases",
+//         "regex": "Bambu_Studio_win-v([0-9.]*)-([0-9]*)\\.zip"
+//     },
+
+//     "autoupdate": {
+//         "url": "https://github.com/bambulab/BambuStudio/releases/download/v$matchVersion/Bambu_Studio_win-v$matchVersion-$matchBuildNumber.zip"
+
+//     }
+// }
